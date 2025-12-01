@@ -1,6 +1,8 @@
 # Walter Henrique Alves da Silva
 
-**Researcher in information, meaning, and language**  
+##!! THIS PAGE IS A WORK IN PROGRESS
+
+**Researcher in entropy, information, meaning, and language**  
 🔗 [ORCID: 0009-0001-0857-096X](https://orcid.org/0009-0001-0857-096X)
 
 Open Research Institute
@@ -44,7 +46,8 @@ Demonstrates the theory in matter: the hydrogen atom as the minimal three-state 
 ## 💻 Published Code
 
 **[Neural Entropy Analysis Pipeline](https://github.com/faltz009/Neural-Entropy-Analysis-Pipeline)**  
-Peer-reviewed work (International Congress on Neuroscience): computational pipeline for neural dynamics using information-theoretic measures.
+Peer-reviewed work (Brain Congress 2025, Brazil): computational pipeline for neural dynamics using information-theoretic measures.
+More detail coming soon.
 
 ---
 
