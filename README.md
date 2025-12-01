@@ -2,6 +2,7 @@
 
 **Researcher in information, meaning, and language**  
 🔗 [ORCID: 0009-0001-0857-096X](https://orcid.org/0009-0001-0857-096X)
+
 Open Research Institute
 
 ---
