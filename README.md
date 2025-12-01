@@ -14,28 +14,32 @@ I study how information, meaning, and language link physics to cognition. Inform
 ---
 
 ## 📚 Research Papers (2025)
+## Publications
 
 ### 📄 **[At the Border of Chaos](https://github.com/faltz009/whitepapers/tree/main/2025/border-of-chaos)** • May 3, 2025  
-DOI: [10.5281/zenodo.15715746](https://doi.org/10.5281/zenodo.15715746](https://osf.io/preprints/psyarxiv/4nv79_v1))  
+Link: https://osf.io/preprints/psyarxiv/4nv79_v1
+
 How naming draws boundaries that discretize continuous reality, why that incompleteness drives paradox, and how it sets up the self-reference problem that links cognition to quantum measurement.
 
 ### 📄 **[The Geometrical Theory of Communication](https://github.com/faltz009/whitepapers/tree/main/2025/geometrical-theory)** • June 21, 2025  
-DOI: [10.5281/zenodo.15715747](https://doi.org/10.5281/zenodo.15715747)  
+Link: https://doi.org/10.5281/zenodo.15715747
+
 Meaning arises from a cycle of differentiation (A ≠ not-A) and integration (A = A across contexts). Shows why Gaussian structure is a geometric necessity and unifies linguistic processing across neurons, computers, and chemistry.
 
 ### 📄 **[The Holy Trinity of Information](https://github.com/faltz009/whitepapers/tree/main/2025/holy-trinity)** • July 15, 2025  
-DOI: [10.5281/zenodo.15715745](https://doi.org/10.5281/zenodo.15898912)  
+Link: https://doi.org/10.5281/zenodo.15898912
+
 Self-referential meaning has one stable solution: three coupled verification systems at different timescales with constrained communication. The architecture reappears in neural, cellular, social, and cosmic systems—consciousness as stable self-representation.
 
 ### 📄 **[Information Evolution Dynamics](https://github.com/faltz009/whitepapers/tree/main/2025/information-evolution)** • September 12, 2025  
-DOI: [10.5281/zenodo.14119308](https://zenodo.org/records/17156438)  
-Maps how patterns persist, decay, and emerge through integration, dissolution, and resonance-driven creation. Derives genuine novelty, 3+1 spacetime, and time’s arrow from verification geometry.
+Link: https://zenodo.org/records/17156438
+
+Maps how patterns persist, decay, and emerge through integration, dissolution, and resonance-driven creation. Derives genuine novelty, 3+1 spacetime, and time's arrow from verification geometry.
 
 ### 📄 **[Computational Chemistry: Hydrogen and the Ruliad](https://github.com/faltz009/whitepapers/tree/main/2025/hydrogen-ruliad)** • November 24, 2025  
-DOI: [10.5281/zenodo.14228961](https://zenodo.org/records/17705796)  
-Demonstrates the theory in matter: the hydrogen atom as the minimal three-state verification structure. Chemistry becomes linguistic communication governed by the same geometric constraints as human language.
+Link: https://zenodo.org/records/17705796
 
----
+Demonstrates the theory in matter: the hydrogen atom as the minimal three-state verification structure. Chemistry becomes linguistic communication governed by the same geometric constraints as human language.
 
 ## 💻 Published Code
 
