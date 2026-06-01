@@ -1,6 +1,5 @@
 # Walter Henrique Alves da Silva
-
-**Software Engineer · Computational Neuroscientist · Data Expert**  
+Open Research Institute
 🔗 [ORCID: 0009-0001-0857-096X](https://orcid.org/0009-0001-0857-096X)
 
 ---
