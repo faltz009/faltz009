@@ -76,4 +76,3 @@ For collaboration or employment: walter.h057@gmail.com
 - Published peer-reviewed neuroscience research
 - Psychology student
 
--
