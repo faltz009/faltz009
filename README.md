@@ -1,73 +1,77 @@
 # Walter Henrique Alves da Silva
 
-##!! THIS PAGE IS A WORK IN PROGRESS
-
-**Researcher in entropy, information, meaning, and language**  
+**Software Engineer · Computational Neuroscientist · Data Expert**  
 🔗 [ORCID: 0009-0001-0857-096X](https://orcid.org/0009-0001-0857-096X)
-
-Open Research Institute
 
 ---
 
 ## 👋 About
 
-I study how information, meaning, and language link physics to cognition. Information is physical; meaning emerges from geometric operations; language is the machinery that propagates meaning across scales—from atomic interactions to thought. My work maps this geometry, shows how the same patterns recur at every level, and ground the theory in physical evidence.
+I am a  data engineer, computational neuroscientist and learning expert, I model how data gets shaped and stored as meaningful information. I've implemented a digital data structure based on how the brain samples and stores memory, and a full database and learning architecture from the ground up.
+
+Currently working on building a digital mind, a language model with geometric embeddings instead of flat vectors approximations. Modern datacenters need around 10.000-20.000W of power to power current AI like Claude or GPT, while the human brain runs on 20W, so the aim is to close that gap.
+---
+
+## 🔭 Current Work
+
+### [Open Research Network](https://github.com/faltz009/open-research-network)
+
+This is the digital mind project, where my free time goes and research gets applied directly
+
+What if you could access an expert at any field, instantly from your cellphone?
+What if you could find other researchers working on the same problems, and be found by others looking for your expertise?
+
+To move science ahead, we put it all in one place, facilitate communication between researchers, and create a digital model of our world where agents can orient themselves without getting lost in hallucinations.
+
+
+### [Closure SDK](https://github.com/faltz009/Closure-SDK)
+
+The backend underneath the Open Research Network: a geometric data structure modeled after how the brain samples and stores information, with a SQL-compatible database and cognitive architecture built on top — Turing complete and extremely efficient. Here are some of the benchmarks:
+
+```
+find the 1 corrupted record in a million      ~1.8× faster than a Merkle tree
+find all 50 corrupted records in 100,000        50× faster than a Merkle tree
+SQL queries, vs SQLite with indexes            7–10× faster
+data-integrity check, vs SQLite            ~19,000× faster
+```
+
+[Run them yourself and see the rest →](https://github.com/faltz009/Closure-SDK/blob/main/BENCHMARKS.md)
 
 ---
 
-## 📚 Research Papers (2025)
-## Publications
+## 📚 Writing and Research
 
-### 📄 **[At the Border of Chaos](https://github.com/faltz009/whitepapers/tree/main/At%20the%20Border%20of%20Chaos)** • May 3, 2025  
-Link: https://osf.io/preprints/psyarxiv/4nv79_v1
+### Research
 
-How naming draws boundaries that discretize continuous reality, why that incompleteness drives paradox, and how it sets up the self-reference problem that links cognition to quantum measurement.
+My R&D repository holds the published papers and active work on a geometric description of thought and language. My home is in psychology — the first paper is essentially philosophy, from there it gets more mathematical.
 
-### 📄 **[The Geometrical Theory of Communication](https://github.com/faltz009/whitepapers/tree/main/The%20Geometrical%20Theory%20of%20Communication)** • June 21, 2025  
-Link: https://doi.org/10.5281/zenodo.15715747
+[**Whitepapers →**](https://github.com/faltz009/whitepapers) · 11 published papers
 
-Meaning arises from a cycle of differentiation (A ≠ not-A) and integration (A = A across contexts). Shows why Gaussian structure is a geometric necessity and unifies linguistic processing across neurons, computers, and chemistry.
+### Writing
 
-### 📄 **[The Holy Trinity of Information](https://github.com/faltz009/whitepapers/tree/main/The%20Holy%20Trinity%20of%20Information)** • July 15, 2025  
-Link: https://doi.org/10.5281/zenodo.15898912
-
-Self-referential meaning has one stable solution: three coupled verification systems at different timescales with constrained communication. The architecture reappears in neural, cellular, social, and cosmic systems—consciousness as stable self-representation.
-
-### 📄 **[Information Theory + Evolution = Everything](https://github.com/faltz009/whitepapers/tree/main/Information%20Evolution%20Dynamics)** • September 12, 2025  
-Link: https://zenodo.org/records/17156438
-
-Maps how patterns persist, decay, and emerge through integration, dissolution, and resonance-driven creation. Derives genuine novelty, 3+1 spacetime, and time's arrow from verification geometry.
-
-### 📄 **[Computational Chemistry: Hydrogen and the Ruliad](https://github.com/faltz009/whitepapers/tree/main/Computational%20Chemistry%3A%20Hydrogen%20and%20the%20Ruliad)** • November 24, 2025  
-Link: https://zenodo.org/records/17705796
-
-Demonstrates the theory in matter: the hydrogen atom as the minimal three-state verification structure. Chemistry becomes linguistic communication governed by the same geometric constraints as human language.
-
-## 💻 Published Code
-
-**[Neural Entropy Analysis Pipeline](https://github.com/faltz009/Neural-Entropy-Analysis-Pipeline)**  
-Peer-reviewed work (Brain Congress 2025, Brazil): computational pipeline for neural dynamics using information-theoretic measures.
-More detail coming soon.
-
+[**Liminal Gravity →**](https://liminalgravity.substack.com) — my substack, where I write simply, with pictures and casual language, without worrying about academic pedantry.
 ---
 
-## 🔬 **Current & Upcoming Work(https://github.com/faltz009/work-in-progress)**
+## 🤝 Support and Collaboration
 
-- **EM Fundamental Frequency** — locating resonance points where interference generates new patterns; physics + data analysis of electromagnetic structure as linguistic interaction.  
-- **Abiogenesis** — modeling the transition from chemical communication to biological language; predicting required conditions for the phase change to life.  
-- **Ethics, Alignment, and Human Behavior** — applying the information architecture to coordination problems, moral intuitions, and AI alignment.  
-- **Non-Hallucinating AI Systems** — building AI with S1/S2/S3 hierarchical flow so coherence is structural rather than statistical.
+All of this is independent work done in my own time and released for free. If you find it useful or want to see it continue, any support helps.
 
----
+| Method | Address |
+|---|---|
+| BTC | `155jaKugGGhdwX2Dp55bfHWpWbWD3Gr3PG` |
+| ETH (ERC-20) | `0x31f0253180b03c16a0aa2d7091311d7363ef22a4` |
+| SOL | `HdGFaL6A8z8AetnyPn6vKPU4QJGaSHBtoqPK32qbe6wV` |
+| PIX (Brazil) | `walter.h057@gmail.com` |
 
-## 🤝 Collaboration
+For collaboration or employment: walter.h057@gmail.com
 
-##coming soon
 ---
 
 ## 🎓 Background
 
-- Psychology graduate student  
-- Full stack developer  
+- Former AI/crypto dev at Renlabs/Torus Network
+- Former full stack dev at NETDigital, a small ISP company
 - Published peer-reviewed neuroscience research
-- Music Teacher
+- Psychology student
+
+-
