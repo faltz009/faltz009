@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 About
+![About](assets/banner-about.png)
 
 I am a  data engineer, computational neuroscientist and learning expert, I model how data gets shaped and stored as meaningful information. I've implemented a digital data structure based on how the brain samples and stores memory, and a full database and learning architecture from the ground up.
 
@@ -13,7 +13,7 @@ Currently working on building a digital mind, a language model with geometric em
 
 ---
 
-## 🔭 Current Work
+![Current Work](assets/banner-current-work.png)
 
 ### [Open Research Network](https://github.com/faltz009/open-research-network)
 
@@ -40,7 +40,7 @@ data-integrity check, vs SQLite            ~19,000× faster
 
 ---
 
-## 📚 Writing and Research
+![Research](assets/banner-research.png)
 
 ### Research
 
@@ -54,7 +54,7 @@ My R&D repository holds the published papers and active work on a geometric desc
 
 ---
 
-## 🤝 Support and Collaboration
+![Support this work](assets/banner-support.png)
 
 All of this is independent work done in my own time and released for free. If you find it useful or want to see it continue, any support helps.
 
@@ -75,4 +75,3 @@ For collaboration or employment: walter.h057@gmail.com
 - Former full stack dev at NETDigital, a small ISP company
 - Published peer-reviewed neuroscience research
 - Psychology student
-
