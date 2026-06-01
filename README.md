@@ -10,6 +10,7 @@
 I am a  data engineer, computational neuroscientist and learning expert, I model how data gets shaped and stored as meaningful information. I've implemented a digital data structure based on how the brain samples and stores memory, and a full database and learning architecture from the ground up.
 
 Currently working on building a digital mind, a language model with geometric embeddings instead of flat vectors approximations. Modern datacenters need around 10.000-20.000W of power to power current AI like Claude or GPT, while the human brain runs on 20W, so the aim is to close that gap.
+
 ---
 
 ## 🔭 Current Work
@@ -35,7 +36,7 @@ SQL queries, vs SQLite with indexes            7–10× faster
 data-integrity check, vs SQLite            ~19,000× faster
 ```
 
-[Run them yourself and see the rest →](https://github.com/faltz009/Closure-SDK/blob/main/BENCHMARKS.md)
+[Run them yourself and see the rest at →](https://github.com/faltz009/Closure-SDK/blob/main/BENCHMARKS.md)
 
 ---
 
@@ -45,11 +46,12 @@ data-integrity check, vs SQLite            ~19,000× faster
 
 My R&D repository holds the published papers and active work on a geometric description of thought and language. My home is in psychology — the first paper is essentially philosophy, from there it gets more mathematical.
 
-[**Whitepapers →**](https://github.com/faltz009/whitepapers) · 11 published papers
+[**Whitepapers →**](https://github.com/faltz009/whitepapers)
 
 ### Writing
 
 [**Liminal Gravity →**](https://liminalgravity.substack.com) — my substack, where I write simply, with pictures and casual language, without worrying about academic pedantry.
+
 ---
 
 ## 🤝 Support and Collaboration
